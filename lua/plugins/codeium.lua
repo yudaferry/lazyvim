@@ -1,5 +1,5 @@
 return {
-  "Exafunction/codeium.vim",
+  "Exafunction/windsurf.vim",
   event = "BufEnter",
   config = function()
     vim.keymap.set("i", "<C-a>", function()
